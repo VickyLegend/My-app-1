@@ -1,1 +1,11 @@
-/*# sourceMappingURL=main.css.map */
+a {
+  text-decoration: none;
+}
+
+.home img {
+  border-radius: 50%;
+}
+
+div header {
+  font-display: 1 rem;
+}/*# sourceMappingURL=main.css.map */
